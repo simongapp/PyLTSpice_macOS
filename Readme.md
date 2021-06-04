@@ -10,6 +10,12 @@ Well, weep no more, because this is a Python toolchain for interacting with LTSp
 Clone this git and either use locally or add to your path.
 
 ## Usage
+### Features
+- Run simulations in LTSpice and read out the results
+- Plot the results with the debug function or do it on your own
+- Plot the .asc circuit
+
+### Examples
 You can find the complete documentation at [readthedocs.io](https://pyltspice-macos.readthedocs.io/en/latest/index.html)  
 Refer to the example below or check out the [Example folder](https://github.com/simongapp/PyLTSpice_macOS/tree/main/Examples) 
 ```python
