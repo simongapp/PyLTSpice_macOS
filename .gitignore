@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.asc_bak
+*.log
+*.net
+*.raw
+__pycache__
+.idea/
+.DS_Store
